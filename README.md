@@ -22,7 +22,7 @@ To perform data analytics on a drug dataset and extract insights for:
 
 ---
 
-## 📂 Dataset Details
+## Dataset Details
 
 | Feature                | Description                                         |
 |------------------------|-----------------------------------------------------|
@@ -76,23 +76,6 @@ An interactive dashboard visualizing:
 - Real-time API for new drug entries
 
 ---
-
-## Folder Structure
-
-drugs-side-effects-and-medical-condition-data-analysis
-├── data/
-│ └── drugs_side_effects_cleaned_dataset.CSV
-| |__ drugs_side_effects_drugs_com.csv
-├── notebooks/
-│ └── drugs_side_effects_analysis.ipynb
-├── dashboard/
-│ └── Tableau screenshots
-├── outputs/
-│ └── *.png (graphs)
-├── report/
-│ └── Drug_SideEffect_Analysis_Presentation.pptx
-├── README.md
-└── requirements.txt
 
 ## Developed By
 **Harshita Lalawat**
